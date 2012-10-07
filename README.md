@@ -17,7 +17,7 @@ Code for presentation "Virtual functions in C++".
 
 * [`virtualFunctions/cpptestVirtualFuncs1`](https://github.com/svarozhych/cpptests/tree/master/virtualFunctions/cpptestVirtualFuncs1) - приклад простого використання віртуальних функцій
 * [`virtualFunctions/cpptestVirtualFuncs2`](https://github.com/svarozhych/cpptests/tree/master/virtualFunctions/cpptestVirtualFuncs2) - розбираємося з таблицею віртуальних методів
-* [`virtualFunctions/cpptestVirtualFuncs3`](https://github.com/svarozhych/cpptests/tree/master/virtualFunctions/cpptestVirtualFuncs3) - проста самостійна реалізація віртуальних методів з використанням компілятора C
+* [`virtualFunctions/cpptestVirtualFuncs3`](https://github.com/svarozhych/cpptests/tree/master/virtualFunctions/cpptestVirtualFuncs3) - проста реалізація віртуальних методів з використанням компілятора C
 
 
 ### lambda
