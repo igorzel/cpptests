@@ -1,16 +1,16 @@
-//============================================================================
-// Name        : cpptestLambda.cpp
-// Author      : svarozhych
-// Version     :
-// Copyright   : svarozhych(c)
-// Description : Examples of lambda usage in C++
-//============================================================================
-
 #include <iostream>
+#include "testLambdaDeclaration.h"
+#include "testLambdaParameters.h"
+#include "testVariableCapture.h"
+#include "testFunctor.h"
+
 
 int main()
 {
-	[](){ std::cout << "Hello from C++ lambda!" << std::endl; }();
+	testLambdaDeclaration();
+	testLambdaParameters();
+	testVariableCapture();
+	testFunctor();
 
 	return 0;
 }
